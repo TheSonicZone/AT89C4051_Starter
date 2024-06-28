@@ -1,0 +1,4 @@
+"STARTUP.obj",
+"test.obj" 
+TO "Test_89C4051" 
+DISABLEWARNING (16) 

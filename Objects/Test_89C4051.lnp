@@ -1,0 +1,6 @@
+".\Objects\STARTUP.obj",
+".\Objects\test.obj" 
+TO ".\Objects\Test_89C4051" 
+
+PRINT(".\Listings\Test_89C4051.map") CLASSES (CODE (C:0x0-C:0xFFF), CONST (C:0x0-C:0xFFF), 
+ECODE (C:0x0-C:0xFFF), HCONST (C:0x0-C:0xFFF)) 
